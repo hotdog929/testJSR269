@@ -1,3 +1,3 @@
 # testJSR269
 
-mvn compile
+mvn install
